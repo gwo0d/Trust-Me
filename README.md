@@ -1,4 +1,4 @@
-# Unfinished Draft
+# Working Draft
 
 # Trust-Me
 A decentralised, AI-proof, federated trust standard for humans, not robots.
@@ -18,7 +18,7 @@ AI systems may be able to convincingly emulate human communication. They may eve
 
 What follows, herein, is a proposal for two codependent technologies:
 - An accessible, user-facing tool for viewing, managing, and growing one's own *Network of Trust* (NoT), and for signing others' public keys in person to help them grow theirs.
-- An append-only decentrilised blockchain (small 'b'), to publicly store individuals' NoTs to facilitate verification thereof.
+- An append-only decentrilised blockchain (small 'b'), to publicly store individuals' NoTs in order to facilitate verification thereof.
 
 *Note: I know 'blockchain' can be a scary and confusing word, associated with many unfriendly internet nasties (I'm looking at you NFTs). But rest assured, in this case, 'blockchain' is meant in the purely-technical sense. No cryptocurrencies are involved in this project.*
 
