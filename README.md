@@ -23,6 +23,8 @@ What follows, herein, is a proposal for two codependent technologies:
 *Note: I know 'blockchain' can be a scary and confusing word, associated with many unfriendly internet nasties (I'm looking at you NFTs). But rest assured, in this case, 'blockchain' is meant in the purely-technical sense. No cryptocurrencies are involved in this project.*
 
 # Contributing
-Contributions will always be welcome, thus is the open spirit of academia. This project is in need of skills from all disciplines, so please feel free to contribute any ideas you have. However, there's one caveat: please refrain from using AI tools to generate your contributions. See [CONTRIBUTING.md].
+Contributions will always be welcome, thus is the open spirit of academia. This project is in need of skills from all disciplines, so please feel free to contribute any ideas you have. However, there's one caveat: please refrain from using AI tools to generate your contributions.
+
+[Contribution guidelines for this project](CONTRIBUTING.md)
 
 Cypherpunks Assemble!
