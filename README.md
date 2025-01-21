@@ -1,7 +1,10 @@
-# Working Draft
-
 # Trust-Me
 A decentralised, AI-proof, federated trust standard for humans, not robots.
+
+
+> [!CAUTION]
+> This is a working draft under active development.
+
 
 # Abstract
 The internet is dead.
@@ -21,6 +24,7 @@ What follows, herein, is a proposal for two codependent technologies:
 - An append-only decentrilised blockchain (small 'b'), to publicly store individuals' NoTs in order to facilitate verification thereof.
 
 *Note: we know 'blockchain' can be a scary and confusing word, associated with many unfriendly internet nasties (We're looking at you NFTs). But rest assured, in this case, 'blockchain' is meant in the purely-technical sense. No cryptocurrencies are involved in this project.*
+
 
 # Contributing
 Contributions will always be welcome, thus is the open spirit of academia. This project is in need of skills from all disciplines, so please feel free to contribute any ideas you have. However, there's one caveat: please refrain from using AI tools to generate your contributions.
