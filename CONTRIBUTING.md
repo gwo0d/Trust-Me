@@ -5,6 +5,9 @@ This project is in early development, and is still establishing its technical st
 
 Please read this file **in full** before contributing, as it contains important information on how to do so.
 
+> [!IMPORTANT]
+> Golden Rule for **all** contributions: *please refrain from using AI tools to write for you.*
+
 To make a contribution, please use the following process:
 1. Fork this project
 2. Make a new branch named according to the question you're answering
